@@ -1,0 +1,98 @@
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe.config
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.pdb
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csprojAssemblyReference.cache
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmInterfacePrincipal.resources
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.Properties.Resources.resources
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.GenerateResource.cache
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CoreCompileInputs.cache
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.exe
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.pdb
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroCurso.resources
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroTurmaAula.resources
+C:\Users\LABINFO\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUnidade.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe.config
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.pdb
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\MySql.Data.dll
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csprojAssemblyReference.cache
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUnidade.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmInterfacePrincipal.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.Properties.Resources.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.GenerateResource.cache
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CopyComplete
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.exe
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.pdb
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroAula.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUsuario.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmPerfil.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmTesteConexao.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe.config
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.pdb
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\MySql.Data.dll
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csprojAssemblyReference.cache
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroAula.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroTurmaCurso.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUnidade.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUsuario.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmEditarUsuario.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmInterfacePrincipal.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmPerfil.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmTesteConexao.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.Properties.Resources.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.GenerateResource.cache
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CopyComplete
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.exe
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.pdb
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmLogin.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmLogin.resources
+E:\Desenvolvimento DTCC\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmSplash.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmSplash.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroCurso.resources
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroTurma.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe.config
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.pdb
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\MySql.Data.dll
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csprojAssemblyReference.cache
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroAula.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroCurso.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroTurma.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUnidade.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUsuario.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmInterfacePrincipal.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmLogin.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmPerfil.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmSplash.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmTesteConexao.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.Properties.Resources.resources
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.GenerateResource.cache
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CopyComplete
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.exe
+E:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.pdb
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe.config
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.exe
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\InterfaceAgendaAluno.pdb
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\bin\Debug\MySql.Data.dll
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csprojAssemblyReference.cache
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroAula.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroCurso.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroTurma.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUnidade.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroUsuario.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmInterfacePrincipal.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmLogin.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmPerfil.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmSplash.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmTesteConexao.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.Properties.Resources.resources
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.GenerateResource.cache
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.csproj.CopyComplete
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.exe
+F:\Desenvolvimento Agenda\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.pdb
+C:\Users\Wilson\source\repos\SLN_InterfaceAgendaAluno\InterfaceAgendaAluno\obj\Debug\InterfaceAgendaAluno.frmCadastroDisciplina.resources

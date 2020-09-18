@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.kaio01.agenda_aluno.TelaCadastroProfessor"
+    android:background="@drawable/grad">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView2" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:contextClickable="false">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cadastro de Professor"
+                android:id="@+id/textView5"
+                android:textColor="#ffff"
+                android:textSize="28dp"
+                android:layout_alignBottom="@+id/imageView"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textIsSelectable="false"
+                android:textStyle="bold|italic"
+                android:typeface="serif" />
+
+            <ImageView
+                android:layout_width="73dp"
+                android:layout_height="73dp"
+                android:id="@+id/imageView4"
+                android:src="@drawable/professor"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nome:"
+                android:id="@+id/textView6"
+                android:textColor="#ffff"
+                android:textSize="25dp"
+                android:layout_alignBottom="@+id/imageView"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="10dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtNome"
+                android:background="@drawable/blue_text"
+                android:textSize="25dp"
+                android:textColor="#ffff"
+                android:hint="Digite seu nome"
+                android:layout_marginBottom="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Email:"
+                android:id="@+id/textView14"
+                android:textColor="#ffff"
+                android:textSize="25dp"
+                android:layout_above="@+id/imageView"
+                android:layout_alignRight="@+id/textView12"
+                android:layout_alignEnd="@+id/textView12" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:ems="10"
+                android:id="@+id/edtEmail"
+                android:textColor="#ffff"
+                android:background="@drawable/blue_text"
+                android:textSize="25dp"
+                android:hint="Digite um e-mail válido"
+                android:layout_marginBottom="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Data de Nascimento:"
+                android:id="@+id/textView15"
+                android:textColor="#ffff"
+                android:textSize="25dp"
+                android:layout_above="@+id/editText10"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="date"
+                android:ems="10"
+                android:id="@+id/edtDataNasc"
+                android:textSize="25dp"
+                android:background="@drawable/blue_text"
+                android:allowUndo="false"
+                android:textColor="#ffff"
+                android:hint="Digite sua data de nascimento"
+                android:layout_marginBottom="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Senha:"
+                android:id="@+id/textView16"
+                android:textColor="#ffff"
+                android:textSize="25dp"
+                android:layout_above="@+id/imageView"
+                android:layout_alignRight="@+id/textView12"
+                android:layout_alignEnd="@+id/textView12" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:ems="10"
+                android:id="@+id/edtSenha"
+                android:textColor="#ffff"
+                android:background="@drawable/blue_text"
+                android:textSize="25dp"
+                android:hint="Digite uma senha"
+                android:layout_marginBottom="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Confirmar senha:"
+                android:id="@+id/textView17"
+                android:textColor="#ffff"
+                android:textSize="25dp"
+                android:layout_above="@+id/imageView"
+                android:layout_alignRight="@+id/textView12"
+                android:layout_alignEnd="@+id/textView12" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:ems="10"
+                android:id="@+id/edtConfirmaSenha"
+                android:textColor="#ffff"
+                android:background="@drawable/blue_text"
+                android:textSize="25dp"
+                android:layout_gravity="center_horizontal"
+                android:hint="Confirme a senha"
+                android:layout_marginBottom="20dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Confirmar"
+                android:id="@+id/btnConfirmar"
+                android:textColor="#ffffff"
+                android:background="@drawable/blue_text"
+                android:textSize="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_below="@+id/textView12"
+                android:layout_toLeftOf="@+id/imageView"
+                android:layout_toStartOf="@+id/imageView"
+                android:layout_marginTop="15dp"
+                android:onClick="registro_clique" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
